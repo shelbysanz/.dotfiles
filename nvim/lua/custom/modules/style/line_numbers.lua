@@ -4,4 +4,5 @@ function LineNumberColors()
   vim.api.nvim_set_hl(0, 'LineNrBelow', { fg = '#FB508F', bold = true })
 end
 
-LineNumberColors()
+vim.cmd [[highlight! link CursorLineNr LineNr]]
+-- LineNumberColors()
