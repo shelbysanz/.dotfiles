@@ -6,6 +6,7 @@ gh/
 jgit/
 raycast/
 stripe/
+.DS_Store
 
 # ignores the lazy-lock.json
 nvim/lazy-lock.json
