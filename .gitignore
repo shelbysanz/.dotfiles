@@ -1,0 +1,13 @@
+# work mac
+fish/
+filezilla/
+configstore/
+gh/
+jgit/
+raycast/
+stripe/
+envman/
+.DS_Store
+
+# ignores the lazy-lock.json
+nvim/lazy-lock.json
