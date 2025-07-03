@@ -71,3 +71,5 @@ bindkey -s '^f' "tmux-sessionizer\n"
 # aliases for tmux
 alias ba="~/development/bluearrow/projects/tmux/ba-fuel.sh"
 alias sf="~/development/bluearrow/projects/tmux/salesforce.sh"
+
+export GOOGLE_CLOUD_PROJECT="encoded-zoo-464517-u0"
