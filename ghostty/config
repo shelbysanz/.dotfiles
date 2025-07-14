@@ -1,0 +1,11 @@
+
+# style
+font-size = 24.0
+background = 000000
+background-opacity = 0.5
+background-blur = true
+window-decoration = none
+
+# options
+confirm-close-surface=false
+shell-integration-features = no-cursor,no-sudo,no-title
